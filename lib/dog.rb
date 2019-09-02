@@ -1,4 +1,4 @@
 # Your code goes here!
 class Dog
-  def .name
+  def name=
 end 
